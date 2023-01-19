@@ -1,0 +1,1 @@
+# nuxt2_template
